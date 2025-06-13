@@ -1,6 +1,2 @@
 # hello_world
-repo_description
-add a line
-another line
-er
-that's it
+I was reminded recently about the value of having a personal github page to showcase work and projects, so here it is.
